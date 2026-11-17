@@ -6,4 +6,6 @@ A playful educational activity generator for parents, caregivers and teachers wo
 
 Create printable worksheets, learning games and interactive activities to make early literacy learning engaging and fun.
 
+View at https://rachel-ker.github.io/activity-generator/
+
 
